@@ -4,7 +4,7 @@ ReadMe:
 git clone https://github.com/your-username/linux-systems-patch.sh.git:
 cd linux-systems-patch.sh
 
-2. Make the Script Executable
+2. Make the Script Executable:
 chmod +x linux-systems-patch.sh
 
 3. Run the Script
